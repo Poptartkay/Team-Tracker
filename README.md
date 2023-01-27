@@ -43,7 +43,8 @@ THEN I exit the application, and the HTML is generated
 ### Links
 ​
 
-- Live Site URL: 
+- Recording :https://drive.google.com/file/d/1HExEdCDkAU4ZIW6AZOL5YQKFKzfWlDL3/view
+- GiHub Repo :https://github.com/Poptartkay/Team-Tracker
 
 ​
 ### Built with
@@ -57,14 +58,16 @@ THEN I exit the application, and the HTML is generated
 ​
 ### What I learned
 ​
-
+This whole challenge taught me a lot of things, and majority of that is node.js and OOP. 
+While I still don't have a firm graps of this, I wll most likely come back to this challenege on a later date
 
 ​
 
 ​
 ### Continued development
-
+There are error that need to be fixed. Will continue at a later date.
 ​
 ## Author
 Kay Ford
 
+![Screenshot (89)](https://user-images.githubusercontent.com/91912984/215149377-07c5d671-8205-401d-ab1d-85d44487f50b.png)
