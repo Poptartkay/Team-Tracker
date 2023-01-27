@@ -15,7 +15,7 @@ let Team = [];
 
 
 
-const OUTPUT_DIR = pathe.resolve(__dirname, "output");
+const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPATH = path.join(OUTPUT_DIR, "index.html");
 
 
